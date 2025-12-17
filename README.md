@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://stats-karan.vercel.app?user=suman2280&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
   <img src="https://karan-stats.vercel.app/api/top-langs?username=suman2280&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=Rentoo" height="150" alt="languages graph"  />
 </div>
 

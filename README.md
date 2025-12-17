@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="30" alt="Arch linux logo"  />
   <img width="12" />
-
+  <br>
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo"  />
